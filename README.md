@@ -1,3 +1,6 @@
+Author:
+1651025 - Nguyen Trung Nghia
+1651071 - Nguyen Truong Hoang Phuc
 This is our source code to build kernel module to generate random number. The folder includes 5 files: understand.docx, Kbuild, Makefile, ran.c, README.
 How to build:
 - make
